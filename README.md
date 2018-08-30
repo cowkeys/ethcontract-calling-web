@@ -6,4 +6,4 @@
 
 ### web
 
-![Image text](https://github.com/cowkeys/erc20_purchase_game/blob/master/common.png)
+![Image text](https://github.com/cowkeys/ethcontract-calling-web/blob/com/common.png)
