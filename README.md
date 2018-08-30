@@ -1,6 +1,9 @@
-### 代币参与游戏
 
-![Image text](https://github.com/cowkeys/erc20_purchase_game/blob/master/process.png)
+### intro
 
-### 测试
-![Image text](https://github.com/cowkeys/erc20_purchase_game/blob/master/seeletest.png)
+输入 etherscan.io 已经认证的合约地址
+可通过metamask 直接调用合约方法。
+
+### web
+
+![Image text](https://github.com/cowkeys/erc20_purchase_game/blob/master/common.png)
